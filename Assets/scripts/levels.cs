@@ -23,7 +23,7 @@ public class levels : MonoBehaviour
 
 		for (int i = 0; i < numberOfPlatforms; i++)
 		{
-			if (i<75)
+			if (i<numberOfPlatforms/2)
             {
 				spawnPosition.y += Random.Range(minY, maxY);
 				spawnPosition.x = Random.Range(-easyWidth, easyWidth);
