@@ -5,8 +5,8 @@
 link to itch.io - https://to-gaming.itch.io/noodlejump
 
 ## ScreenShots 
-<img src="noodleJumpL1.jpg" width="350" title="hover text">
-<img src="noodleJumpL2.jpg" width="350" title="hover text">
+<img src="noodleJumpL1.jpg" width="280" title="Level 1">
+<img src="noodleJumpL2.jpg" width="280" title="Level 2">
 ## About the game-
 * you are a crazy chicken.
 * jump on the chopsticks to run away.
